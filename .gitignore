@@ -1,0 +1,8 @@
+.idea
+__pycache__
+images
+images2
+email.eml
+example.txt
+smtp.py
+smtp-mime.zip
